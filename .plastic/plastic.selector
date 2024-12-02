@@ -1,0 +1,4 @@
+repository "dall V@gnlrjswjd@cloud"
+  path "/"
+    br "/main"
+    co "/main"
