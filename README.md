@@ -4,9 +4,9 @@
 
 ## **개요**  
 Unity를 활용한 2D 미니게임 2종 개발:  
-1. **탑 뷰 배달 레이싱 게임**
+1. **탑 뷰 배달 레이싱 게임** https://github.com/techn-0/Vedall_V
 ![image](https://github.com/user-attachments/assets/7d7d05d3-d97d-4928-85c5-37867937e80a)
-2. **스노우 보드 다운 힐 게임**
+2. **스노우 보드 다운 힐 게임** https://github.com/techn-0/snowB
 ![image](https://github.com/user-attachments/assets/677e7dc5-555f-43c7-abc9-4793feea3107)
 
 ---
