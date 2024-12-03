@@ -4,8 +4,10 @@
 
 ## **개요**  
 Unity를 활용한 2D 미니게임 2종 개발:  
-1. **탑 뷰 배달 레이싱 게임**  
+1. **탑 뷰 배달 레이싱 게임**
+![image](https://github.com/user-attachments/assets/7d7d05d3-d97d-4928-85c5-37867937e80a)
 2. **스노우 보드 다운 힐 게임**
+![image](https://github.com/user-attachments/assets/677e7dc5-555f-43c7-abc9-4793feea3107)
 
 ---
 
@@ -29,12 +31,14 @@ Unity 엔진을 직접 활용하며 게임 개발 과정을 학습하기 위함.
 ## **주요 콘텐츠**
 
 ### **1. 배달 레이싱 게임**  
+![image](https://github.com/user-attachments/assets/6d904b5f-4d0f-42c7-bb95-e561ec90e26e)
 - **콘셉트**: 탑 뷰 방식의 2D 레이싱 게임  
 - **게임 특징**:  
   - 방향키로 오토바이를 조작하여 택배(파란색 도형)를 고객(노란색 도형)에게 배달  
   - 빨간색 도형과 접촉 시 부스트 발동  
 
 ### **2. 스노우 보드 다운 힐**  
+![image](https://github.com/user-attachments/assets/87dd5419-0dbe-4e49-9916-63cd5f71e194)
 - **콘셉트**: 사이드 뷰 방식의 2D 스노우 보드 게임  
 - **게임 특징**:  
   - 플레이어는 스노우 보드를 탄 고양이를 조작하며 코스를 완주  
